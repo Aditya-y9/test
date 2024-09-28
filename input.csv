@@ -1,0 +1,2 @@
+Id,OptionType,Strike,Spot,TimeToExpiry,RiskfreeRate,MarketFearIndex,BuySellRatio
+1,Put,120,148.5581572,0.944953829,0.027206587,71.28559419,0.487120444
